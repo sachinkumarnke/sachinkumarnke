@@ -1,65 +1,82 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Kumar;AWS+Cloud+%26+DevOps+Engineer;Full-Stack+Software+Developer;Automating+Infrastructure+%26+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Kumar;Aspiring+Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Building%2C+deploying%2C+and+automating" alt="Typing introduction" />
+  <p><strong>Cloud & DevOps · AWS · Infrastructure Automation · Full-Stack Development</strong></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sachinkumarnke&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+    <a href="https://github.com/sachinkumarnke?tab=followers"><img src="https://img.shields.io/github/followers/sachinkumarnke?label=Followers&style=flat-square&color=38bdf8" alt="GitHub followers" /></a>
+    <img src="https://img.shields.io/badge/Open%20to-Entry--Level%20Opportunities-22c55e?style=flat-square" alt="Open to entry-level opportunities" />
+  </p>
 </div>
 
+👋 About Me
+Hi, I'm Sachin Kumar, a Computer Science graduate from India who enjoys building applications and learning how to deploy and operate them reliably.
+- ☁️ Career focus: Cloud Engineer, DevOps Engineer, and Cloud Support Engineer roles.
+- 🚀 Cloud & DevOps: AWS, Linux, Docker, Kubernetes, Terraform, Jenkins, and Nginx.
+- 💻 Development: Next.js, React, Node.js, Laravel, and Django.
+- 🔧 What I enjoy: Automating repetitive tasks, building CI/CD workflows, troubleshooting systems, and learning by creating practical projects.
+- 🌱 Currently growing: Cloud-native technologies, infrastructure automation, deployment practices, and system administration.
+I believe the best way to learn technology is to build, deploy, debug, document, and improve real projects.
+🧰 Tech Stack
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachinkumarnke&label=Profile%20Views&color=0e75b6&style=flat-square" alt="sachinkumarnke" />
-  <a href="https://github.com/sachinkumarnke?tab=followers">
-    <img src="https://img.shields.io/github/followers/sachinkumarnke?label=Followers&style=flat-square&color=38bdf8" alt="GitHub Followers" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,ubuntu,nginx,git,github&perline=6" alt="Cloud and DevOps skills" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,laravel,django,typescript,javascript,php,html,css&perline=5" alt="Development skills" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&perline=5" alt="Database and backend tools" />
 </p>
 
----
+<details>
+  <summary><strong>View my key areas of focus</strong></summary>
 
-### 🚀 About Me
-- ☁️ **Cloud & DevOps Engineer** passionate about automating infrastructure, container orchestration, and building scalable CI/CD pipelines.
-- 💻 **Full-Stack Developer** experienced in crafting modern web applications and backend architectures.
-- 🌱 Continuously exploring cloud-native architectures, Kubernetes ecosystems, and system administration.
-- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Next.js, and Laravel**.
+Area	Technologies and concepts
+Cloud	AWS EC2, S3, IAM, VPC, Lambda, API Gateway, CloudFront, Route 53
+DevOps	Docker, Kubernetes, Terraform, Jenkins, Ansible, CI/CD
+Systems	Linux, Ubuntu, Nginx, SSL/TLS, server troubleshooting
+Development	Next.js, React, Node.js, Laravel, Django, TypeScript
+Data & storage	MySQL, PostgreSQL, MongoDB, Firebase, Supabase, object storage
 
----
 
-### 🛠️ Tech Stack & Tools
+</details>
 
-**☁️ Cloud, DevOps & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
+🚀 Selected Projects
+1. Pixelframe — Wallpaper Platform
+A wallpaper discovery website designed for different screen sizes and display formats.
+- Focus: Web application development, browsing experience, and asset delivery.
+- Technologies: Next.js and Firebase.
+- Explore: Open the live website
+2. Pharmacy Management System
+A Django-based pharmacy management and e-commerce application with product browsing, cart and order workflows, customer features, and an admin area.
+- Focus: Full-stack application development and containerized deployment.
+- Technologies: Django, Python, Bootstrap, SQLite/PostgreSQL, Docker, and Docker Compose.
+- Explore: View source code
+3. Cloud & CI/CD Practice
+I work on deploying applications and improving repeatable delivery workflows using cloud infrastructure and DevOps tools.
+- Focus: AWS EC2, Docker, Jenkins, Nginx, Linux, and secure HTTPS configuration.
+- Goal: Make deployments more consistent, easier to troubleshoot, and simpler to maintain.
+- Explore: Browse my repositories
+Tip: Pin your 4–6 strongest original projects on your GitHub profile. Prioritize projects with a clear README, screenshots or a demo, setup instructions, and a short explanation of the problem they solve.
 
-**💻 Full-Stack Development & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub Stats & Streak
-
+📊 GitHub Stats
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sachinkumarnke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sachin's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumarnke&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachinkumarnke&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumarnke&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sachinkumarnke&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sachinkumarnke&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
+🎯 What I'm Working Toward
+- Building practical AWS and DevOps projects that demonstrate deployment and troubleshooting skills.
+- Improving my knowledge of Linux, networking, containers, infrastructure as code, and CI/CD.
+- Writing clearer project documentation so others can run and understand my work.
+- Preparing for entry-level Cloud, DevOps, and Cloud Support opportunities.
+🤝 Connect
+I'm happy to learn from other developers, exchange ideas, and collaborate on useful projects.
+- GitHub: @sachinkumarnke
+- Repositories: Explore my projects
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinkumarnke&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <i>Build consistently. Automate thoughtfully. Keep learning. 🚀</i>
 </div>
