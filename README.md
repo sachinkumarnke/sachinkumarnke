@@ -150,7 +150,6 @@ Some additional projects are works in progress or do not have a public repositor
 - Location: Patna, Bihar, India
 - Email: sachinkumarnke7@gmail.com
 - LinkedIn: linkedin.com/in/sachin-kumar-a85205231
-- Phone: +91 7856813828
 - Languages: Hindi (native), English (working proficiency)
 <div align="center">
   <i>“Keep learning, keep building, and make technology useful.”</i>
